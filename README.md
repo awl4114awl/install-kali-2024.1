@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/cnl3nNp.jpeg" height="50%" width="50%" alt="install kali"/>
+<img src="https://i.imgur.com/cnl3nNp.jpeg" height="100%" width="100%" alt="install kali"/>
 </p>
 <h1>how to install kali linux 2024.1 on windows 10/11 using oracle virtual box</h1>
 In this tutorial I will show how to download and install kali linux 2024.1 on virtualbox in windows 10/11 step by step. Let's get right into it!

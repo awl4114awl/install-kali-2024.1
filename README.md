@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/kali-linux-dragon-logo.png?q=50&fit=contain&w=943&h=&dpr=1.5" height="50%" width="50%" alt="install kali"/>
 </p>
-<h1>how to install kali linux 2024.1 on windows 10/11 using oracle virtual box</h1>
+<h1>How to Install Kali Linux 2024.1 on Windows 10/11 using Oracle Virtual Box</h1>
 In this tutorial I will show how to download and install kali linux 2024.1 on virtualbox in windows 10/11 step by step. Let's get right into it!
 <br />
 
